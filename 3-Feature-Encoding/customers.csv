@@ -1,0 +1,101 @@
+datetime,age,eye_color,satisfaction,upsell
+07/12/20 18:41,48,gray,satisfied,yes
+07/12/20 15:54,44,blue,extremely satisfied,no
+07/12/20 11:23,42,green,not satisfied,yes
+06/12/20 23:59,59,amber,very satisfied,no
+07/12/20 15:41,50,hazel,slightly satisfied,yes
+08/12/20 10:57,43,brown,very satisfied,yes
+06/12/20 18:38,30,brown,very satisfied,no
+05/12/20 21:13,31,blue,satisfied,yes
+07/12/20 22:29,56,gray,very satisfied,yes
+07/12/20 07:34,47,gray,very satisfied,yes
+06/12/20 02:05,54,hazel,extremely satisfied,no
+05/12/20 23:17,19,green,extremely satisfied,yes
+04/12/20 21:30,25,brown,slightly satisfied,yes
+05/12/20 09:50,42,blue,slightly satisfied,no
+07/12/20 01:44,43,blue,extremely satisfied,yes
+06/12/20 17:24,51,brown,very satisfied,yes
+06/12/20 08:07,49,green,very satisfied,no
+06/12/20 01:04,51,hazel,very satisfied,yes
+05/12/20 18:35,67,blue,satisfied,yes
+07/12/20 16:48,54,brown,not satisfied,yes
+05/12/20 21:00,34,brown,very satisfied,no
+08/12/20 13:38,60,gray,slightly satisfied,no
+07/12/20 14:44,19,brown,not satisfied,no
+07/12/20 14:39,55,green,not satisfied,yes
+05/12/20 00:03,35,brown,slightly satisfied,no
+08/12/20 16:17,32,blue,satisfied,no
+05/12/20 15:43,30,brown,slightly satisfied,yes
+07/12/20 16:14,29,brown,not satisfied,no
+08/12/20 06:56,41,brown,slightly satisfied,yes
+08/12/20 03:56,35,green,extremely satisfied,yes
+05/12/20 10:47,33,green,very satisfied,yes
+04/12/20 21:37,40,blue,not satisfied,no
+06/12/20 04:09,23,green,satisfied,no
+05/12/20 21:07,19,blue,extremely satisfied,no
+07/12/20 08:46,42,blue,extremely satisfied,no
+07/12/20 15:43,63,hazel,very satisfied,yes
+05/12/20 23:58,28,brown,not satisfied,yes
+05/12/20 05:49,66,gray,very satisfied,yes
+06/12/20 20:13,34,brown,slightly satisfied,no
+06/12/20 07:23,68,blue,extremely satisfied,no
+07/12/20 11:22,29,hazel,extremely satisfied,no
+05/12/20 13:38,45,blue,extremely satisfied,yes
+04/12/20 17:58,50,green,very satisfied,yes
+06/12/20 19:54,38,gray,satisfied,no
+07/12/20 13:35,34,hazel,satisfied,yes
+05/12/20 21:31,44,blue,slightly satisfied,no
+07/12/20 16:31,34,gray,satisfied,no
+05/12/20 03:35,21,blue,slightly satisfied,no
+08/12/20 14:35,51,green,not satisfied,no
+07/12/20 21:41,22,hazel,satisfied,yes
+07/12/20 13:41,27,blue,slightly satisfied,no
+04/12/20 13:40,40,blue,very satisfied,yes
+06/12/20 14:47,47,amber,not satisfied,yes
+05/12/20 23:42,57,amber,satisfied,no
+06/12/20 23:04,21,blue,not satisfied,no
+07/12/20 11:08,48,brown,very satisfied,yes
+05/12/20 08:08,41,amber,not satisfied,no
+06/12/20 10:00,57,gray,slightly satisfied,no
+06/12/20 18:02,34,green,satisfied,yes
+07/12/20 02:30,29,blue,very satisfied,no
+05/12/20 21:05,53,green,not satisfied,yes
+06/12/20 23:40,30,green,very satisfied,yes
+05/12/20 15:59,35,blue,very satisfied,no
+06/12/20 20:48,62,hazel,very satisfied,no
+07/12/20 11:08,32,brown,very satisfied,no
+05/12/20 14:26,54,brown,satisfied,no
+08/12/20 13:52,54,hazel,extremely satisfied,no
+07/12/20 10:18,55,gray,slightly satisfied,no
+07/12/20 08:02,60,hazel,slightly satisfied,no
+08/12/20 13:11,63,amber,extremely satisfied,yes
+06/12/20 02:53,47,hazel,extremely satisfied,no
+06/12/20 22:15,56,gray,slightly satisfied,yes
+07/12/20 00:34,38,blue,satisfied,no
+06/12/20 14:43,19,blue,very satisfied,yes
+06/12/20 04:00,24,amber,satisfied,no
+05/12/20 08:54,62,gray,extremely satisfied,no
+07/12/20 01:44,46,blue,not satisfied,no
+04/12/20 17:52,69,brown,satisfied,yes
+05/12/20 22:34,69,gray,not satisfied,yes
+08/12/20 08:24,44,hazel,satisfied,no
+06/12/20 11:01,54,green,satisfied,yes
+04/12/20 19:20,22,brown,extremely satisfied,no
+08/12/20 05:08,53,gray,not satisfied,yes
+07/12/20 13:57,32,hazel,not satisfied,no
+07/12/20 14:24,57,green,satisfied,yes
+06/12/20 22:29,62,blue,satisfied,no
+05/12/20 16:31,49,gray,slightly satisfied,yes
+08/12/20 01:31,18,green,extremely satisfied,yes
+07/12/20 00:02,57,blue,satisfied,no
+08/12/20 10:37,34,amber,very satisfied,no
+08/12/20 16:02,44,hazel,extremely satisfied,yes
+04/12/20 22:29,61,brown,slightly satisfied,no
+05/12/20 16:27,23,hazel,slightly satisfied,no
+07/12/20 19:30,51,gray,very satisfied,yes
+07/12/20 03:04,26,blue,slightly satisfied,no
+06/12/20 14:43,50,hazel,extremely satisfied,no
+08/12/20 08:26,67,gray,very satisfied,yes
+05/12/20 08:10,55,green,slightly satisfied,yes
+08/12/20 06:37,63,gray,very satisfied,yes
+08/12/20 13:43,30,hazel,not satisfied,no
