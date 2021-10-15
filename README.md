@@ -9,3 +9,5 @@ This repository has been created for my AWS MLS-C01 course.  Take a look at it h
 Feel free to clone this repository and play with the code.  The course steps through all the principles used in the code and has recorded video walkthroughs that explain it in depth.
 
 Thanks for checking out this repo.  Hope to see you inside the course!
+
+:)
