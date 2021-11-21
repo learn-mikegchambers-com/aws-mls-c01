@@ -1,6 +1,5 @@
 import argparse
 import os
-# from sagemaker_training import environment
 from sklearn.linear_model import LinearRegression
 import pickle
 
@@ -8,8 +7,6 @@ def parse_args():
     """
     Parse arguments.
     """
-    #env = environment.Environment()
-
     parser = argparse.ArgumentParser()
 
     # hyperparameters sent by the client are passed as command-line arguments to the script
